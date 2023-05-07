@@ -5,8 +5,6 @@ Github finder is a Fetch Api project where we can easily find a github user info
 ```
 To run the program just open index.html file in your web browser.
 ```
-## Acknowledgement
-Special thanks to Brad Traversy.
 
 ## Author
 Shrey Patel<br>
